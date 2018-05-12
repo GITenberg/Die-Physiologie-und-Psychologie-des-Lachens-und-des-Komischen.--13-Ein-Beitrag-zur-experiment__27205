@@ -1,0 +1,27 @@
+_repo: Die-Physiologie-und-Psychologie-des-Lachens-und-des-Komischen.--13-Ein-Beitrag-zur-experiment__27205
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hecker, Ewald
+    gutenberg_agent_id: '32540'
+    url: http://www.gutenberg.org/2009/agents/32540
+description: ''
+gutenberg_issued: '2008-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27205'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychophysiology'
+- !lcsh 'Comic, The'
+- !lcc 'BF'
+- !lcsh 'Laughter'
+title: "Die Physiologie und Psychologie des Lachens und des Komischen.\r\nEin Beitrag\
+  \ zur experimentellen Psychologie für Naturforscher, Philosophen und gebildete Laien."
+url: http://www.gutenberg.org/ebooks/27205
